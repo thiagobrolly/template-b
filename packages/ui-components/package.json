@@ -1,6 +1,6 @@
 {
   "name": "@thiagobrolly/components",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "license": "MIT",
@@ -19,5 +19,5 @@
     "type": "git",
     "url": "git+https://github.com/thiagobrolly/template-b.git"
   },
-  "gitHead": "45cae9da62e8e3a6855f0b39d234316cdcb24f9d"
+  "gitHead": "4833cf73dacacbe848ed55ceecc88734782af071"
 }
