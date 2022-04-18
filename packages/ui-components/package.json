@@ -1,6 +1,6 @@
 {
   "name": "@thiagobrolly/components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "license": "MIT",
@@ -14,5 +14,6 @@
   "peerDependencies": {
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
-  }
+  },
+  "gitHead": "7296b5dc68c10f6c22ea12965001760faa6d5aab"
 }
