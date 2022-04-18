@@ -1,0 +1,26 @@
+{
+  "name": "aloha-world",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
+  "homepage": "https://github.com/thiagobrolly/template-b#readme",
+  "license": "ISC",
+  "main": "lib/aloha-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobrolly/template-b.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/thiagobrolly/template-b/issues"
+  }
+}

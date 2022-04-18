@@ -1,6 +1,6 @@
 {
   "name": "@thiagobrolly/components",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "license": "MIT",
@@ -15,5 +15,9 @@
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
   },
-  "gitHead": "7296b5dc68c10f6c22ea12965001760faa6d5aab"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobrolly/template-b.git"
+  },
+  "gitHead": "45cae9da62e8e3a6855f0b39d234316cdcb24f9d"
 }
