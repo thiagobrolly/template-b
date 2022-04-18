@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    //"outDir": "lib",
+    // "baseUrl": "./packages",
+    // "paths": {
+    //   "@paylivre/icons/*": ["ui-icons/src/*"],
+    //   "@paylivre/components/*": ["ui-components/src*/"],
+      // "@lumx/react/*": ["lumx-react/src/*"],
+      // "@lumx/icons/*": ["lumx-icons/*"]
+    // },
+  },
+  // "include": [
+  //   "src",
+  // ],
+  "exclude": [
+    "node_modules",
+    "lib",
+    "**/lib/", 
+    "**/public/",
+    "**/*.stories.tsx",
+    "**/*.stories.ts",
+    "**/*.test.tsx",
+    "**/*.test.ts",
+  ]
+}
